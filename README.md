@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MishaMat1
-- 👀 I’m interested in programming like HTML and CSS!
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in programming like HTML, CSS and JavaScript!
+- 🌱 I’m currently learning HTML, CSS, JavsScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
